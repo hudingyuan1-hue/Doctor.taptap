@@ -1,0 +1,5 @@
+D:\Doctor\Validation\obj-unity\Debug\netstandard2.1\UnityCompile.csproj.AssemblyReference.cache
+D:\Doctor\Validation\obj-unity\Debug\netstandard2.1\UnityCompile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doctor\Validation\obj-unity\Debug\netstandard2.1\UnityCompile.AssemblyInfoInputs.cache
+D:\Doctor\Validation\obj-unity\Debug\netstandard2.1\UnityCompile.AssemblyInfo.cs
+D:\Doctor\Validation\obj-unity\Debug\netstandard2.1\UnityCompile.csproj.CoreCompileInputs.cache

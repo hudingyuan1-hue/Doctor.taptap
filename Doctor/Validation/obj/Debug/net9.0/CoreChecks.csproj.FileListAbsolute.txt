@@ -1,0 +1,14 @@
+D:\Doctor\Validation\bin\Debug\net9.0\CoreChecks.exe
+D:\Doctor\Validation\bin\Debug\net9.0\CoreChecks.deps.json
+D:\Doctor\Validation\bin\Debug\net9.0\CoreChecks.runtimeconfig.json
+D:\Doctor\Validation\bin\Debug\net9.0\CoreChecks.dll
+D:\Doctor\Validation\bin\Debug\net9.0\CoreChecks.pdb
+D:\Doctor\Validation\obj\Debug\net9.0\CoreChecks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doctor\Validation\obj\Debug\net9.0\CoreChecks.AssemblyInfoInputs.cache
+D:\Doctor\Validation\obj\Debug\net9.0\CoreChecks.AssemblyInfo.cs
+D:\Doctor\Validation\obj\Debug\net9.0\CoreChecks.csproj.CoreCompileInputs.cache
+D:\Doctor\Validation\obj\Debug\net9.0\CoreChecks.dll
+D:\Doctor\Validation\obj\Debug\net9.0\refint\CoreChecks.dll
+D:\Doctor\Validation\obj\Debug\net9.0\CoreChecks.pdb
+D:\Doctor\Validation\obj\Debug\net9.0\CoreChecks.genruntimeconfig.cache
+D:\Doctor\Validation\obj\Debug\net9.0\ref\CoreChecks.dll

@@ -1,0 +1,43 @@
+PASS Autonomous search across 200 seeds: actual key, 7-10 attempts, no deadlock
+PASS Planned ranges change with trapped count, fixed limit remains 10, key relocates
+PASS Strict threshold: equal strength resisted; cost and damage persist; completed action rewarded
+PASS Same-point cumulative breakthrough once; different point stays independent
+PASS Interrupted search costs exactly one attempt, searches elsewhere, retries key last
+PASS Retry order defers interrupted non-key point until original remaining targets
+PASS Last retry blocked again rests, including fourth trapped round (no forced pass)
+PASS 10-attempt cap under repeated valid interruptions
+PASS Round growth once per used point, resisted counts, unused unchanged, balances and damage retained
+PASS Unlock/upgrade use clusters; abilities and upgrade strength persist
+PASS Paused simulation freezes all model timers; menu cast defers cat damage until resume
+PASS Fully resisted stimulus damages environment but never alarms cat
+PASS Cat distance independently produces 10 / 5 / 0 damage or no response
+PASS Cat normal block makes fourth-round single search into two; no fright
+PASS Cat→health/mental→mother entry→advice arises from independent rules
+PASS Effective gut refuses mother rest, resisted gut accepts; entering already unlocks door
+PASS Mother with present cat: special overrides normal porridge and chocolate
+PASS Low mental rest can be interrupted once; later search loses mental; targeted extra growth
+PASS Mental lowest band priority: <=0 Street; <20 numb risk; death wins at simultaneous zero
+PASS Death round2→5: both counters +3, resources only actual arrival, growth once
+PASS Numb faint enters next actual round, paused risk unchanged
+PASS Awakening one per round and never replays after death stage skip; no global bonus
+PASS Save/reload mid-action preserves queued reactions, search progress, and RNG without free resources
+PASS Default tuning with real NPC probabilities across 100 seeds reaches scene exit
+PASS Insufficient balance and locked-point casts do not mutate costs, memory, damage, or strength
+RESULT: 25 passed, 0 failed. Unity graphics/physics not covered.
+  正在确定要还原的项目…
+  所有项目均是最新的，无法还原。
+  UnityCompile -> D:\Doctor\Validation\bin\UnityCompile\netstandard2.1\UnityCompile.dll
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.98
+{
+  "type": "Static scene and reference validation; not Unity import",
+  "objects": 105,
+  "materials": 19,
+  "componentsAndObjects": 426,
+  "routeSamples": 43632,
+  "passed": true
+}

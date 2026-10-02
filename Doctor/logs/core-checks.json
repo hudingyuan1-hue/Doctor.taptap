@@ -1,0 +1,107 @@
+{
+  "framework": ".NET 9, pure rules only; not Unity runtime",
+  "passed": 25,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Autonomous search across 200 seeds: actual key, 7-10 attempts, no deadlock",
+      "passed": true
+    },
+    {
+      "name": "Planned ranges change with trapped count, fixed limit remains 10, key relocates",
+      "passed": true
+    },
+    {
+      "name": "Strict threshold: equal strength resisted; cost and damage persist; completed action rewarded",
+      "passed": true
+    },
+    {
+      "name": "Same-point cumulative breakthrough once; different point stays independent",
+      "passed": true
+    },
+    {
+      "name": "Interrupted search costs exactly one attempt, searches elsewhere, retries key last",
+      "passed": true
+    },
+    {
+      "name": "Retry order defers interrupted non-key point until original remaining targets",
+      "passed": true
+    },
+    {
+      "name": "Last retry blocked again rests, including fourth trapped round (no forced pass)",
+      "passed": true
+    },
+    {
+      "name": "10-attempt cap under repeated valid interruptions",
+      "passed": true
+    },
+    {
+      "name": "Round growth once per used point, resisted counts, unused unchanged, balances and damage retained",
+      "passed": true
+    },
+    {
+      "name": "Unlock/upgrade use clusters; abilities and upgrade strength persist",
+      "passed": true
+    },
+    {
+      "name": "Paused simulation freezes all model timers; menu cast defers cat damage until resume",
+      "passed": true
+    },
+    {
+      "name": "Fully resisted stimulus damages environment but never alarms cat",
+      "passed": true
+    },
+    {
+      "name": "Cat distance independently produces 10 / 5 / 0 damage or no response",
+      "passed": true
+    },
+    {
+      "name": "Cat normal block makes fourth-round single search into two; no fright",
+      "passed": true
+    },
+    {
+      "name": "Cat\u2192health/mental\u2192mother entry\u2192advice arises from independent rules",
+      "passed": true
+    },
+    {
+      "name": "Effective gut refuses mother rest, resisted gut accepts; entering already unlocks door",
+      "passed": true
+    },
+    {
+      "name": "Mother with present cat: special overrides normal porridge and chocolate",
+      "passed": true
+    },
+    {
+      "name": "Low mental rest can be interrupted once; later search loses mental; targeted extra growth",
+      "passed": true
+    },
+    {
+      "name": "Mental lowest band priority: \u003C=0 Street; \u003C20 numb risk; death wins at simultaneous zero",
+      "passed": true
+    },
+    {
+      "name": "Death round2\u21925: both counters \u002B3, resources only actual arrival, growth once",
+      "passed": true
+    },
+    {
+      "name": "Numb faint enters next actual round, paused risk unchanged",
+      "passed": true
+    },
+    {
+      "name": "Awakening one per round and never replays after death stage skip; no global bonus",
+      "passed": true
+    },
+    {
+      "name": "Save/reload mid-action preserves queued reactions, search progress, and RNG without free resources",
+      "passed": true
+    },
+    {
+      "name": "Default tuning with real NPC probabilities across 100 seeds reaches scene exit",
+      "passed": true
+    },
+    {
+      "name": "Insufficient balance and locked-point casts do not mutate costs, memory, damage, or strength",
+      "passed": true
+    }
+  ]
+}

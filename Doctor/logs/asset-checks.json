@@ -1,0 +1,8 @@
+{
+  "type": "Static scene and reference validation; not Unity import",
+  "objects": 105,
+  "materials": 19,
+  "componentsAndObjects": 426,
+  "routeSamples": 43632,
+  "passed": true
+}
